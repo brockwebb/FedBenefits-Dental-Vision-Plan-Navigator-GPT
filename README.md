@@ -36,7 +36,7 @@ The **FedBenefits Dental and Vision Navigator GPT** is a time-limited AI tool de
 
 ## **Usage**
 
-- **Access the GPT in ChatGPT Store**: [TBD]
+- **Access the GPT in ChatGPT Store**: [Click Here](https://chatgpt.com/g/g-6734f5e5e4288190bd32d71a3dfe12b1-federal-benefits-dental-vision-plan-navigator-2025)
 
 ## **Project Resources**
 
