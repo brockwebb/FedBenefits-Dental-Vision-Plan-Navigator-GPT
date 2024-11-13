@@ -40,7 +40,7 @@ The **FedBenefits Dental and Vision Navigator GPT** is a time-limited AI tool de
 
 ## **Project Resources**
 
-- **Instruction Set**: [TBD]
+- **Instruction Set**: [Instructions](https://github.com/brockwebb/FedBenefits-Dental-Vision-Plan-Navigator-GPT/blob/main/FBHP_NAV_GPT_Instructions.md)
 - **Model Card**: [TBD]
 - **Data Files**: all the uploaded plan brochures used are in the /data directory
 
